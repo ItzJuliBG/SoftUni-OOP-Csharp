@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\5.Encapsulation\01.Persons\obj\Debug\net6.0\01.Persons.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\5.Encapsulation\01.Persons\obj\Debug\net6.0\01.Persons.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\5.Encapsulation\01.Persons\obj\Debug\net6.0\01.Persons.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\5.Encapsulation\01.Persons\obj\Debug\net6.0\01.Persons.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\5.Encapsulation\01.Persons\bin\Debug\net6.0\01.Persons.exe
+X:\SoftUni-OOP-Csharp\5.Encapsulation\01.Persons\bin\Debug\net6.0\01.Persons.deps.json
+X:\SoftUni-OOP-Csharp\5.Encapsulation\01.Persons\bin\Debug\net6.0\01.Persons.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\5.Encapsulation\01.Persons\bin\Debug\net6.0\01.Persons.dll
+X:\SoftUni-OOP-Csharp\5.Encapsulation\01.Persons\bin\Debug\net6.0\01.Persons.pdb
+X:\SoftUni-OOP-Csharp\5.Encapsulation\01.Persons\obj\Debug\net6.0\01.Persons.dll
+X:\SoftUni-OOP-Csharp\5.Encapsulation\01.Persons\obj\Debug\net6.0\refint\01.Persons.dll
+X:\SoftUni-OOP-Csharp\5.Encapsulation\01.Persons\obj\Debug\net6.0\01.Persons.pdb
+X:\SoftUni-OOP-Csharp\5.Encapsulation\01.Persons\obj\Debug\net6.0\01.Persons.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\5.Encapsulation\01.Persons\obj\Debug\net6.0\ref\01.Persons.dll

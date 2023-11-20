@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\7.InterfacesandAbstraction\02.Cars\bin\Debug\net6.0\02.Cars.exe
+X:\SoftUni-OOP-Csharp\7.InterfacesandAbstraction\02.Cars\bin\Debug\net6.0\02.Cars.deps.json
+X:\SoftUni-OOP-Csharp\7.InterfacesandAbstraction\02.Cars\bin\Debug\net6.0\02.Cars.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\7.InterfacesandAbstraction\02.Cars\bin\Debug\net6.0\02.Cars.dll
+X:\SoftUni-OOP-Csharp\7.InterfacesandAbstraction\02.Cars\bin\Debug\net6.0\02.Cars.pdb
+X:\SoftUni-OOP-Csharp\7.InterfacesandAbstraction\02.Cars\obj\Debug\net6.0\02.Cars.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\7.InterfacesandAbstraction\02.Cars\obj\Debug\net6.0\02.Cars.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\7.InterfacesandAbstraction\02.Cars\obj\Debug\net6.0\02.Cars.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\7.InterfacesandAbstraction\02.Cars\obj\Debug\net6.0\02.Cars.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\7.InterfacesandAbstraction\02.Cars\obj\Debug\net6.0\02.Cars.dll
+X:\SoftUni-OOP-Csharp\7.InterfacesandAbstraction\02.Cars\obj\Debug\net6.0\refint\02.Cars.dll
+X:\SoftUni-OOP-Csharp\7.InterfacesandAbstraction\02.Cars\obj\Debug\net6.0\02.Cars.pdb
+X:\SoftUni-OOP-Csharp\7.InterfacesandAbstraction\02.Cars\obj\Debug\net6.0\02.Cars.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\7.InterfacesandAbstraction\02.Cars\obj\Debug\net6.0\ref\02.Cars.dll

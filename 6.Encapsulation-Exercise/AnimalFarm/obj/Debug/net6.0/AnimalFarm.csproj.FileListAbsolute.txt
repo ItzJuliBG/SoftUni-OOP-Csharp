@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.exe
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.deps.json
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.dll
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.pdb
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.dll
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\refint\AnimalFarm.dll
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.pdb
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\ref\AnimalFarm.dll

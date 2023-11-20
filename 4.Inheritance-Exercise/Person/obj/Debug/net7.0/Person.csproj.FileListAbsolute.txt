@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Person\bin\Debug\net7.0\Person.exe
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Person\bin\Debug\net7.0\Person.deps.json
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Person\bin\Debug\net7.0\Person.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Person\bin\Debug\net7.0\Person.dll
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Person\bin\Debug\net7.0\Person.pdb
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Person\obj\Debug\net7.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Person\obj\Debug\net7.0\Person.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Person\obj\Debug\net7.0\Person.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Person\obj\Debug\net7.0\Person.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Person\obj\Debug\net7.0\Person.dll
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Person\obj\Debug\net7.0\refint\Person.dll
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Person\obj\Debug\net7.0\Person.pdb
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Person\obj\Debug\net7.0\Person.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Person\obj\Debug\net7.0\ref\Person.dll

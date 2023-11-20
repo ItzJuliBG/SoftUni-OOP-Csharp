@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\03.Telephony\bin\Debug\net6.0\03.Telephony.exe
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\03.Telephony\bin\Debug\net6.0\03.Telephony.deps.json
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\03.Telephony\bin\Debug\net6.0\03.Telephony.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\03.Telephony\bin\Debug\net6.0\03.Telephony.dll
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\03.Telephony\bin\Debug\net6.0\03.Telephony.pdb
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\03.Telephony.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\03.Telephony.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\03.Telephony.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\03.Telephony.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\03.Telephony.dll
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\refint\03.Telephony.dll
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\03.Telephony.pdb
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\03.Telephony.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\ref\03.Telephony.dll

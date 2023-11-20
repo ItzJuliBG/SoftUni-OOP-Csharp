@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Zoo\bin\Debug\net6.0\Zoo.exe
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Zoo\bin\Debug\net6.0\Zoo.deps.json
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Zoo\bin\Debug\net6.0\Zoo.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Zoo\bin\Debug\net6.0\Zoo.dll
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Zoo\bin\Debug\net6.0\Zoo.pdb
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.dll
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Zoo\obj\Debug\net6.0\refint\Zoo.dll
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.pdb
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\4.Inheritance-Exercise\Zoo\obj\Debug\net6.0\ref\Zoo.dll

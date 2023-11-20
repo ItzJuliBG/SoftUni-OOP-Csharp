@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.exe
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.deps.json
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.dll
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.pdb
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.dll
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\refint\01.ClassBoxData.dll
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.pdb
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\6.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\ref\01.ClassBoxData.dll

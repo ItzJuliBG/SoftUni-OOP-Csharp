@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\9.Polymorphism\01.MathOperations\bin\Debug\net6.0\01.MathOperations.exe
+X:\SoftUni-OOP-Csharp\9.Polymorphism\01.MathOperations\bin\Debug\net6.0\01.MathOperations.deps.json
+X:\SoftUni-OOP-Csharp\9.Polymorphism\01.MathOperations\bin\Debug\net6.0\01.MathOperations.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\9.Polymorphism\01.MathOperations\bin\Debug\net6.0\01.MathOperations.dll
+X:\SoftUni-OOP-Csharp\9.Polymorphism\01.MathOperations\bin\Debug\net6.0\01.MathOperations.pdb
+X:\SoftUni-OOP-Csharp\9.Polymorphism\01.MathOperations\obj\Debug\net6.0\01.MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\9.Polymorphism\01.MathOperations\obj\Debug\net6.0\01.MathOperations.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\9.Polymorphism\01.MathOperations\obj\Debug\net6.0\01.MathOperations.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\9.Polymorphism\01.MathOperations\obj\Debug\net6.0\01.MathOperations.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\9.Polymorphism\01.MathOperations\obj\Debug\net6.0\01.MathOperations.dll
+X:\SoftUni-OOP-Csharp\9.Polymorphism\01.MathOperations\obj\Debug\net6.0\refint\01.MathOperations.dll
+X:\SoftUni-OOP-Csharp\9.Polymorphism\01.MathOperations\obj\Debug\net6.0\01.MathOperations.pdb
+X:\SoftUni-OOP-Csharp\9.Polymorphism\01.MathOperations\obj\Debug\net6.0\01.MathOperations.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\9.Polymorphism\01.MathOperations\obj\Debug\net6.0\ref\01.MathOperations.dll

@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\Demo\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.exe
+X:\SoftUni-OOP-Csharp\Demo\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.deps.json
+X:\SoftUni-OOP-Csharp\Demo\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\Demo\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.dll
+X:\SoftUni-OOP-Csharp\Demo\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.pdb
+X:\SoftUni-OOP-Csharp\Demo\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\Demo\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\Demo\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\Demo\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\Demo\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.dll
+X:\SoftUni-OOP-Csharp\Demo\PlayersAndMonsters\obj\Debug\net6.0\refint\PlayersAndMonsters.dll
+X:\SoftUni-OOP-Csharp\Demo\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.pdb
+X:\SoftUni-OOP-Csharp\Demo\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\Demo\PlayersAndMonsters\obj\Debug\net6.0\ref\PlayersAndMonsters.dll

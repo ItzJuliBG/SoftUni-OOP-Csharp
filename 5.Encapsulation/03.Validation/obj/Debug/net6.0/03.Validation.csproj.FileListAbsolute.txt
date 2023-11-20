@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\5.Encapsulation\03.Validation\obj\Debug\net6.0\03.Validation.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\5.Encapsulation\03.Validation\obj\Debug\net6.0\03.Validation.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\5.Encapsulation\03.Validation\obj\Debug\net6.0\03.Validation.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\5.Encapsulation\03.Validation\obj\Debug\net6.0\03.Validation.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\5.Encapsulation\03.Validation\bin\Debug\net6.0\03.Validation.exe
+X:\SoftUni-OOP-Csharp\5.Encapsulation\03.Validation\bin\Debug\net6.0\03.Validation.deps.json
+X:\SoftUni-OOP-Csharp\5.Encapsulation\03.Validation\bin\Debug\net6.0\03.Validation.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\5.Encapsulation\03.Validation\bin\Debug\net6.0\03.Validation.dll
+X:\SoftUni-OOP-Csharp\5.Encapsulation\03.Validation\bin\Debug\net6.0\03.Validation.pdb
+X:\SoftUni-OOP-Csharp\5.Encapsulation\03.Validation\obj\Debug\net6.0\03.Validation.dll
+X:\SoftUni-OOP-Csharp\5.Encapsulation\03.Validation\obj\Debug\net6.0\refint\03.Validation.dll
+X:\SoftUni-OOP-Csharp\5.Encapsulation\03.Validation\obj\Debug\net6.0\03.Validation.pdb
+X:\SoftUni-OOP-Csharp\5.Encapsulation\03.Validation\obj\Debug\net6.0\03.Validation.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\5.Encapsulation\03.Validation\obj\Debug\net6.0\ref\03.Validation.dll

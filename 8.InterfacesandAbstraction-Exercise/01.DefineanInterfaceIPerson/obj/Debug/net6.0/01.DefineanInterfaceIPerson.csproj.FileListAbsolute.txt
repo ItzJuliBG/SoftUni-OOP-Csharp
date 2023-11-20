@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\01.DefineanInterfaceIPerson\bin\Debug\net6.0\01.DefineanInterfaceIPerson.exe
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\01.DefineanInterfaceIPerson\bin\Debug\net6.0\01.DefineanInterfaceIPerson.deps.json
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\01.DefineanInterfaceIPerson\bin\Debug\net6.0\01.DefineanInterfaceIPerson.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\01.DefineanInterfaceIPerson\bin\Debug\net6.0\01.DefineanInterfaceIPerson.dll
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\01.DefineanInterfaceIPerson\bin\Debug\net6.0\01.DefineanInterfaceIPerson.pdb
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.dll
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\net6.0\refint\01.DefineanInterfaceIPerson.dll
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.pdb
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\net6.0\ref\01.DefineanInterfaceIPerson.dll

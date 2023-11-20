@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\Demo\Restaurant\bin\Debug\net6.0\Restaurant.exe
+X:\SoftUni-OOP-Csharp\Demo\Restaurant\bin\Debug\net6.0\Restaurant.deps.json
+X:\SoftUni-OOP-Csharp\Demo\Restaurant\bin\Debug\net6.0\Restaurant.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\Demo\Restaurant\bin\Debug\net6.0\Restaurant.dll
+X:\SoftUni-OOP-Csharp\Demo\Restaurant\bin\Debug\net6.0\Restaurant.pdb
+X:\SoftUni-OOP-Csharp\Demo\Restaurant\obj\Debug\net6.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\Demo\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\Demo\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\Demo\Restaurant\obj\Debug\net6.0\Restaurant.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\Demo\Restaurant\obj\Debug\net6.0\Restaurant.dll
+X:\SoftUni-OOP-Csharp\Demo\Restaurant\obj\Debug\net6.0\refint\Restaurant.dll
+X:\SoftUni-OOP-Csharp\Demo\Restaurant\obj\Debug\net6.0\Restaurant.pdb
+X:\SoftUni-OOP-Csharp\Demo\Restaurant\obj\Debug\net6.0\Restaurant.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\Demo\Restaurant\obj\Debug\net6.0\ref\Restaurant.dll

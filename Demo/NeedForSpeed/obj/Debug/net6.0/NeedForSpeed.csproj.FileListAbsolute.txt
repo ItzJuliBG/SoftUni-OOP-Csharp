@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\Demo\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.exe
+X:\SoftUni-OOP-Csharp\Demo\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.deps.json
+X:\SoftUni-OOP-Csharp\Demo\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\Demo\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.dll
+X:\SoftUni-OOP-Csharp\Demo\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.pdb
+X:\SoftUni-OOP-Csharp\Demo\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\Demo\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\Demo\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\Demo\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\Demo\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.dll
+X:\SoftUni-OOP-Csharp\Demo\NeedForSpeed\obj\Debug\net6.0\refint\NeedForSpeed.dll
+X:\SoftUni-OOP-Csharp\Demo\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.pdb
+X:\SoftUni-OOP-Csharp\Demo\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\Demo\NeedForSpeed\obj\Debug\net6.0\ref\NeedForSpeed.dll

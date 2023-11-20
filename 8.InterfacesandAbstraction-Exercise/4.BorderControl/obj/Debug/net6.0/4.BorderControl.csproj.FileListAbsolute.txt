@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\4.BorderControl\bin\Debug\net6.0\4.BorderControl.exe
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\4.BorderControl\bin\Debug\net6.0\4.BorderControl.deps.json
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\4.BorderControl\bin\Debug\net6.0\4.BorderControl.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\4.BorderControl\bin\Debug\net6.0\4.BorderControl.dll
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\4.BorderControl\bin\Debug\net6.0\4.BorderControl.pdb
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\4.BorderControl\obj\Debug\net6.0\4.BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\4.BorderControl\obj\Debug\net6.0\4.BorderControl.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\4.BorderControl\obj\Debug\net6.0\4.BorderControl.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\4.BorderControl\obj\Debug\net6.0\4.BorderControl.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\4.BorderControl\obj\Debug\net6.0\4.BorderControl.dll
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\4.BorderControl\obj\Debug\net6.0\refint\4.BorderControl.dll
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\4.BorderControl\obj\Debug\net6.0\4.BorderControl.pdb
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\4.BorderControl\obj\Debug\net6.0\4.BorderControl.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\8.InterfacesandAbstraction-Exercise\4.BorderControl\obj\Debug\net6.0\ref\4.BorderControl.dll
