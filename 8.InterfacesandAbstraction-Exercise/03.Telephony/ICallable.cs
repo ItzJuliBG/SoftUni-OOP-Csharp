@@ -8,6 +8,6 @@ namespace _03.Telephony
 {
    public interface ICallable
     {
-        public void Call(string phoneNumber);
+        public void Call();
     }
 }

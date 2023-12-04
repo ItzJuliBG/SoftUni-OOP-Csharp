@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\Demo\bin\Debug\net6.0\Demo.exe
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\Demo\bin\Debug\net6.0\Demo.deps.json
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\Demo\bin\Debug\net6.0\Demo.dll
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\Demo\bin\Debug\net6.0\Demo.pdb
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\Demo\obj\Debug\net6.0\Demo.dll
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\Demo\obj\Debug\net6.0\refint\Demo.dll
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\Demo\obj\Debug\net6.0\Demo.pdb
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\Demo\obj\Debug\net6.0\ref\Demo.dll

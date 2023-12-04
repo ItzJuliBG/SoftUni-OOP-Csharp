@@ -26,7 +26,6 @@ public class Engine : IEngine
         double totalHeroPower = 0;
         for (int i = 0; i < peopleCount; i++)
         {
-            
             string name = Console.ReadLine();
             string type = Console.ReadLine();
             switch (type)

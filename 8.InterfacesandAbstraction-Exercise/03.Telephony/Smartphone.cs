@@ -6,23 +6,31 @@ using System.Threading.Tasks;
 
 namespace _03.Telephony
 {
-    public class Smartphone : ICallable, IBrowsable
+    public class Smartphone : Phone, ICallable, IBrowsable
     {
-        public void Browse(string url)
+        public Smartphone(string number, string url) : base(number)
         {
-            if (url.Any(char.IsDigit))
+            URL = url;
+        }
+        public string URL { get; private set; }
+
+        public void Browse()
+        {
+            if (URL.Any(char.IsDigit))
             {
                 Console.WriteLine("Invalid URL!");
             }
             else
             {
-            Console.WriteLine($"Browsing: {url}!");
+            Console.WriteLine($"Browsing: {URL}!");
 
             }
         }
-        public void Call(string phoneNumber)
+        public override void Call()
         {
-            Console.WriteLine($"Calling... {phoneNumber}");
+            Console.WriteLine($"Calling... {Number}");
         }
+
+   
     }
 }

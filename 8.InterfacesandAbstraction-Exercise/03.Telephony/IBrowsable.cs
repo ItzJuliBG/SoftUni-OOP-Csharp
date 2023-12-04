@@ -8,6 +8,6 @@ namespace _03.Telephony
 {
     public interface IBrowsable
     {
-        public void Browse(string url);
+        public void Browse();
     }
 }

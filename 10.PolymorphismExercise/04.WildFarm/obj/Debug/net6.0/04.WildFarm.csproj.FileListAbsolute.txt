@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.exe
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.deps.json
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.dll
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.pdb
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.dll
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\04.WildFarm\obj\Debug\net6.0\refint\04.WildFarm.dll
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.pdb
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\10.PolymorphismExercise\04.WildFarm\obj\Debug\net6.0\ref\04.WildFarm.dll

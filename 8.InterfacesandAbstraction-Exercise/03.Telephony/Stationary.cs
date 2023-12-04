@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace _03.Telephony
 {
-    public class Stationary : ICallable
+    public class Stationary : Phone, ICallable
     {
-        public void Call(string phoneNumber)
+        public Stationary(string number) : base(number)
         {
-            Console.WriteLine($"Dialing... {phoneNumber}");
+        }
+
+        public override void Call()
+        {
+            Console.WriteLine($"Dialing... {Number}");
         }
     }
 }

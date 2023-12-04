@@ -1,41 +1,31 @@
 ﻿using _03.Telephony;
-using System.Reflection.Metadata.Ecma335;
-
-try
-{
 
 
 List<string> phoneNums = new(Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries));
 List<string> urlLinks = new(Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries));
 
-
-ICallable phone;
+List<IBrowsable> smartphones = new List<IBrowsable>();
 foreach (string phoneNum in phoneNums)
 {
-    if(phoneNum.Length == 10)
+    if (phoneNum.Length == 10)
     {
-        phone = new Smartphone();
-        phone.Call(phoneNum);
+        var currentPhone = new Smartphone(phoneNum, urlLinks.First());
+        currentPhone.Call();
+        smartphones.Add(currentPhone);
+        urlLinks.RemoveAt(0);
     }
-    else if (phoneNum.Length == 7) 
+    else if (phoneNum.Length == 7)
     {
-        phone = new Stationary();
-        phone.Call(phoneNum);
+        var currentPhone = new Stationary(phoneNum);
+        currentPhone.Call();
     }
     else
     {
-            Console.WriteLine("Invalid number!");
+        Console.WriteLine("Invalid number!");
     }
-    
-}
-IBrowsable browsable = new Smartphone();
-foreach  (string urlLink in urlLinks)
-{
-    browsable.Browse(urlLink);
-}
-}
-catch (Exception ex)
-{
-    Console.WriteLine(ex.Message);
 
+}
+foreach (var smartphone in smartphones)
+{
+    smartphone.Browse();
 }
