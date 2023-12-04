@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\17.UnitTesting\Skeleton\bin\Debug\net6.0\Skeleton.exe
+X:\SoftUni-OOP-Csharp\17.UnitTesting\Skeleton\bin\Debug\net6.0\Skeleton.deps.json
+X:\SoftUni-OOP-Csharp\17.UnitTesting\Skeleton\bin\Debug\net6.0\Skeleton.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\17.UnitTesting\Skeleton\bin\Debug\net6.0\Skeleton.dll
+X:\SoftUni-OOP-Csharp\17.UnitTesting\Skeleton\bin\Debug\net6.0\Skeleton.pdb
+X:\SoftUni-OOP-Csharp\17.UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\17.UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\17.UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\17.UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\17.UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.dll
+X:\SoftUni-OOP-Csharp\17.UnitTesting\Skeleton\obj\Debug\net6.0\refint\Skeleton.dll
+X:\SoftUni-OOP-Csharp\17.UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.pdb
+X:\SoftUni-OOP-Csharp\17.UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\17.UnitTesting\Skeleton\obj\Debug\net6.0\ref\Skeleton.dll
