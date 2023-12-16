@@ -1,0 +1,4 @@
+X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\obj\Debug\net6.0\EDriveRent.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\obj\Debug\net6.0\EDriveRent.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\obj\Debug\net6.0\EDriveRent.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\obj\Debug\net6.0\EDriveRent.csproj.CoreCompileInputs.cache

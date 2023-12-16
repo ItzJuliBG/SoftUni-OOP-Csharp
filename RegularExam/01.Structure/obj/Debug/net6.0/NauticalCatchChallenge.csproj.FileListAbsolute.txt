@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\RegularExam\01.Structure\bin\Debug\net6.0\NauticalCatchChallenge.exe
+X:\SoftUni-OOP-Csharp\RegularExam\01.Structure\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+X:\SoftUni-OOP-Csharp\RegularExam\01.Structure\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\RegularExam\01.Structure\bin\Debug\net6.0\NauticalCatchChallenge.dll
+X:\SoftUni-OOP-Csharp\RegularExam\01.Structure\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+X:\SoftUni-OOP-Csharp\RegularExam\01.Structure\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\RegularExam\01.Structure\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\RegularExam\01.Structure\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\RegularExam\01.Structure\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\RegularExam\01.Structure\obj\Debug\net6.0\NauticalCatchChallenge.dll
+X:\SoftUni-OOP-Csharp\RegularExam\01.Structure\obj\Debug\net6.0\refint\NauticalCatchChallenge.dll
+X:\SoftUni-OOP-Csharp\RegularExam\01.Structure\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+X:\SoftUni-OOP-Csharp\RegularExam\01.Structure\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\RegularExam\01.Structure\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll
