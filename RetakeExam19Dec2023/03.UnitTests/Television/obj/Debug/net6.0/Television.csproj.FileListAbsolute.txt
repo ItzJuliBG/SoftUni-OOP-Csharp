@@ -1,0 +1,14 @@
+X:\SoftUni-OOP-Csharp\RetakeExam19Dec2023\03.UnitTests\Television\bin\Debug\net6.0\Television.exe
+X:\SoftUni-OOP-Csharp\RetakeExam19Dec2023\03.UnitTests\Television\bin\Debug\net6.0\Television.deps.json
+X:\SoftUni-OOP-Csharp\RetakeExam19Dec2023\03.UnitTests\Television\bin\Debug\net6.0\Television.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\RetakeExam19Dec2023\03.UnitTests\Television\bin\Debug\net6.0\Television.dll
+X:\SoftUni-OOP-Csharp\RetakeExam19Dec2023\03.UnitTests\Television\bin\Debug\net6.0\Television.pdb
+X:\SoftUni-OOP-Csharp\RetakeExam19Dec2023\03.UnitTests\Television\obj\Debug\net6.0\Television.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-OOP-Csharp\RetakeExam19Dec2023\03.UnitTests\Television\obj\Debug\net6.0\Television.AssemblyInfoInputs.cache
+X:\SoftUni-OOP-Csharp\RetakeExam19Dec2023\03.UnitTests\Television\obj\Debug\net6.0\Television.AssemblyInfo.cs
+X:\SoftUni-OOP-Csharp\RetakeExam19Dec2023\03.UnitTests\Television\obj\Debug\net6.0\Television.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\RetakeExam19Dec2023\03.UnitTests\Television\obj\Debug\net6.0\Television.dll
+X:\SoftUni-OOP-Csharp\RetakeExam19Dec2023\03.UnitTests\Television\obj\Debug\net6.0\refint\Television.dll
+X:\SoftUni-OOP-Csharp\RetakeExam19Dec2023\03.UnitTests\Television\obj\Debug\net6.0\Television.pdb
+X:\SoftUni-OOP-Csharp\RetakeExam19Dec2023\03.UnitTests\Television\obj\Debug\net6.0\Television.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\RetakeExam19Dec2023\03.UnitTests\Television\obj\Debug\net6.0\ref\Television.dll

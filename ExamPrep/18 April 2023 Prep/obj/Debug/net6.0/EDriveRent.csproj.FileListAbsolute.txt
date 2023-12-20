@@ -2,3 +2,13 @@ X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\obj\Debug\net6.0\EDriveRent.Ge
 X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\obj\Debug\net6.0\EDriveRent.AssemblyInfoInputs.cache
 X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\obj\Debug\net6.0\EDriveRent.AssemblyInfo.cs
 X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\obj\Debug\net6.0\EDriveRent.csproj.CoreCompileInputs.cache
+X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\bin\Debug\net6.0\EDriveRent.exe
+X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\bin\Debug\net6.0\EDriveRent.deps.json
+X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\bin\Debug\net6.0\EDriveRent.runtimeconfig.json
+X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\bin\Debug\net6.0\EDriveRent.dll
+X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\bin\Debug\net6.0\EDriveRent.pdb
+X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\obj\Debug\net6.0\EDriveRent.dll
+X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\obj\Debug\net6.0\refint\EDriveRent.dll
+X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\obj\Debug\net6.0\EDriveRent.pdb
+X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\obj\Debug\net6.0\EDriveRent.genruntimeconfig.cache
+X:\SoftUni-OOP-Csharp\ExamPrep\18 April 2023 Prep\obj\Debug\net6.0\ref\EDriveRent.dll

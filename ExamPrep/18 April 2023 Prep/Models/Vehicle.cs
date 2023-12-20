@@ -1,4 +1,5 @@
 ﻿using EDriveRent.Models.Contracts;
+using EDriveRent.Utilities.Messages;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,10 +16,25 @@ namespace EDriveRent.Models
         private int batteryLevel;
         private bool isDamaged;
 
+        protected Vehicle(string brand, string model, double maxMileage, string licensePlateNumber)
+        {
+            Brand = brand;
+            Model = model;
+            MaxMileage = maxMileage;
+            LicensePlateNumber = licensePlateNumber;
+        }
+
         public string Brand
         {
             get { return brand; }
-            set { brand = value; }
+            private set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException(ExceptionMessages.BrandNull);
+                }
+                brand = value;
+            }
         }
 
 
@@ -26,7 +42,14 @@ namespace EDriveRent.Models
         public string Model
         {
             get { return model; }
-            set { model = value; }
+            private set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException(ExceptionMessages.ModelNull);
+                }
+                model = value;
+            }
         }
 
 
@@ -36,7 +59,13 @@ namespace EDriveRent.Models
         public string LicensePlateNumber
         {
             get { return licensePlateNumber; }
-            set { licensePlateNumber = value; }
+            private set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException(ExceptionMessages.LicenceNumberRequired);
+                }
+                licensePlateNumber = value; }
         }
 
 
@@ -44,7 +73,7 @@ namespace EDriveRent.Models
         public int BatteryLevel
         {
             get { return batteryLevel; }
-            set { batteryLevel = value; }
+            private set { batteryLevel = value; }
         }
 
 
@@ -52,23 +81,43 @@ namespace EDriveRent.Models
         public bool IsDamaged
         {
             get { return isDamaged; }
-            set { isDamaged = false; }
+            private set { isDamaged = false; }
         }
 
 
         public void ChangeStatus()
         {
-            throw new NotImplementedException();
+            if (IsDamaged)
+            {
+                IsDamaged = false;
+            }
+            else
+            {
+                isDamaged = true;
+            }
         }
 
         public void Drive(double mileage)
         {
-            throw new NotImplementedException();
-        }
+            double percentage = Math.Round((mileage / MaxMileage) * 100);
+            this.batteryLevel -= (int)percentage;
 
+            if (this.GetType().Name == nameof(CargoVan))
+            {
+                this.batteryLevel -= 5;
+            }
+        }
         public void Recharge()
         {
-            throw new NotImplementedException();
+            batteryLevel = 100;
+        }
+        public override string ToString()
+        {
+            if (IsDamaged)
+            {
+                return $"{Brand} {Model} License plate: {LicensePlateNumber} Battery: {BatteryLevel}% Status: damaged";
+            }
+            return $"{Brand} {Model} License plate: {LicensePlateNumber} Battery: {BatteryLevel}% Status: OK";
         }
     }
 }

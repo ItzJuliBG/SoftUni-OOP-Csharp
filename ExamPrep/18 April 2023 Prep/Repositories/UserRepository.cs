@@ -8,34 +8,41 @@ using System.Threading.Tasks;
 
 namespace EDriveRent.Repositories
 {
-    public class UserRepository : IRepository<User>
+    public class UserRepository : IRepository<IUser>
     {
-        private List<IUser> users = new List<IUser>();
+        private List<IUser> currentList = new List<IUser>();
+        private List<IUser> users;
 
-        public UserRepository(List<IUser> users)
+        public IReadOnlyCollection<IUser> Users
         {
-            this.users = new List<IUser>();
+            get { return users; }
+            private set { users = currentList; }
         }
 
-        public void AddModel(User model)
+        public void AddModel(IUser model)
         {
-           users.Add(model);
+            currentList.Add(model);
         }
 
-        public User FindById(string identifier)
+        public IUser FindById(string identifier)
         {
-            //return users.FirstOrDefault(x=> x.i
-            return null;
+            return currentList.FirstOrDefault(x => x.DrivingLicenseNumber == identifier);
         }
 
-        public IReadOnlyCollection<User> GetAll()
+        public IReadOnlyCollection<IUser> GetAll()
         {
-            throw new NotImplementedException();
+            return Users;
         }
 
         public bool RemoveById(string identifier)
         {
-            throw new NotImplementedException();
+            var result = currentList.FirstOrDefault(x => x.DrivingLicenseNumber == identifier);
+            if (result == null)
+            {
+                return false;
+            }
+            currentList.Remove(result);
+            return true;
         }
     }
 }
